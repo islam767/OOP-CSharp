@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37216.2 d17.14
+VisualStudioVersion = 17.14.37216.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{90B21745-871B-4CE7-B5F7-892ED075B19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{3A71ED50-CF66-40B1-B0A5-700950FB0A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{90B21745-871B-4CE7-B5F7-892ED075B19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B21745-871B-4CE7-B5F7-892ED075B19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B21745-871B-4CE7-B5F7-892ED075B19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A71ED50-CF66-40B1-B0A5-700950FB0A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A71ED50-CF66-40B1-B0A5-700950FB0A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A71ED50-CF66-40B1-B0A5-700950FB0A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A71ED50-CF66-40B1-B0A5-700950FB0A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
